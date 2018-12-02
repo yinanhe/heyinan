@@ -1,0 +1,12 @@
+Package: heyinan
+Type: Package
+Title: a small package contains the functions I usually use
+Version: 0.0.0.9000
+Authors@R: person("He", "Yinan", email = "heyinan@bupt.edu.cn", role = c("aut", "cre"))
+Description: This packages contains 3 mian functions."Unscale" accepts the result of scale and performs an inverse transformation;"which_max" accepts a numeric vector as a parameter Number, the subscript of the output maximum. If there are multiple values listed as the maximum value, the subscripts are all output; "as_five_greade_scores" is mainly to convert the percentage system into a five-point system
+Depends: R (>= 3.5.0)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Date: 2018-11-30
+RoxygenNote: 6.1.1
